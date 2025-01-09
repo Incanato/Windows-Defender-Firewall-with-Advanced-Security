@@ -1,0 +1,16 @@
+app-analytics-services.com
+redirector.googlevideo.com
+s.youtube.com
+platform.bidgear.com
+s.orbsrv.com
+a.orbsrv.com
+
+browser.sentry-cdn.com
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+events.reddit.com
+ads.youtube.com
+partnerads.ysm.yahoo.com
+log.fc.yahoo.com
+metrics.mzstatic.com
+smetrics.samsung.com
